@@ -1,5 +1,5 @@
 # 3D Design & Automation Club at the University of Cincinnati
-## About Us# University of Cincinnati - College of Engineering and Applied Science (CEAS)
+## About Us
 
 Welcome to the official GitHub page of the 3D Design & Automation Club. We are a dedicated group of students from the University of Cincinnati's College of Engineering and Applied Science, passionate about exploring and innovating in the fields of 3D design and automation. 
 
