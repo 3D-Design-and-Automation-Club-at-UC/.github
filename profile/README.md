@@ -9,3 +9,7 @@ Here, you'll find our collaborative projects, cutting-edge research, and innovat
 - Stay Tuned
 ## FAQs/Questions
 - Stay Tuned
+## Keep In Touch
+- Official Discord: [3DDAC Discord](https://discord.gg/zMQCnrydQw)
+- YouTube Channel: [3DDAC YouTube](https://www.youtube.com/@3DDAC)
+- Email: [3DDesignandAutomationClub@gmail.com](mailto:3DDesignandAutomationClub@gmail.com)
