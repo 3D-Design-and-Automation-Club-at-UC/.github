@@ -8,7 +8,9 @@ Here, you'll find our collaborative projects, cutting-edge research, and innovat
 ## How to Contribute
 - Stay Tuned
 ## FAQs/Questions
-- Stay Tuned
+- When are Meetings?
+  - Meetings are every Tuesday from 6 pm to 9 pm in Rhodes Hall 801M. Attendance is encouraged.
+- More Questions To Be Answered Soon
 ## Keep In Touch
 - Official Discord: [3DDAC Discord](https://discord.gg/zMQCnrydQw)
 - YouTube Channel: [3DDAC YouTube](https://www.youtube.com/@3DDAC)
