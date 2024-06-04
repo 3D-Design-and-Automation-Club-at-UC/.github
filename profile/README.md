@@ -15,3 +15,4 @@ Here, you'll find our collaborative projects, cutting-edge research, and innovat
 - Official Discord: [3DDAC Discord](https://discord.gg/zMQCnrydQw)
 - YouTube Channel: [3DDAC YouTube](https://www.youtube.com/@3DDAC)
 - Email: [3DDesignandAutomationClub@gmail.com](mailto:3DDesignandAutomationClub@gmail.com)
+- Linkedin :[3DDAC Linkedin](https://www.linkedin.com/groups/13046147/)
