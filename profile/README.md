@@ -6,11 +6,9 @@ Welcome to the official GitHub page of the 3D Design & Automation Club. We are a
 Here, you'll find our collaborative projects, cutting-edge research, and innovative solutions in 3D design and automation. We believe in the power of collaboration and open-source learning. Feel free to explore our repositories, contribute, and join us in pushing the boundaries of 3D design and automation.
 
 ## How to Contribute
-- Stay Tuned
+- [How To Contribute](CONTRIBUTING.md)
 ## FAQs/Questions
-- When are Meetings?
-  - Meetings are every Tuesday from 6 pm to 9 pm in Rhodes Hall 801M. Attendance is encouraged.
-- More Questions To Be Answered Soon
+- [FAQs](FAQ.md)
 ## Keep In Touch
 - Official Discord: [3DDAC Discord](https://discord.gg/zMQCnrydQw)
 - YouTube Channel: [3DDAC YouTube](https://www.youtube.com/@3DDAC)
